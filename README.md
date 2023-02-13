@@ -1,6 +1,6 @@
-# Rossmann-Sales-Prediction
-
-![image](https://user-images.githubusercontent.com/76884379/217930551-2e92f29e-f8b1-4889-8164-e7a5de8375fe.png)
+<h3 align="center"> # Rossmann-Sales-Prediction
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+<h3 align="center"> ![image](https://user-images.githubusercontent.com/76884379/217930551-2e92f29e-f8b1-4889-8164-e7a5de8375fe.png)
 
 # Business Problem.
 
