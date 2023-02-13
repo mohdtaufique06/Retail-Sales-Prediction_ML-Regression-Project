@@ -1,6 +1,6 @@
-<h3 align="center"> # Rossmann-Sales-Prediction
+# **<h3 align="center">Rossmann Sales Prediction </h1>**
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
-<h3 align="center"> ![image](https://user-images.githubusercontent.com/76884379/217930551-2e92f29e-f8b1-4889-8164-e7a5de8375fe.png)
+<p align="center"><<img src="https://media-cdn.tripadvisor.com/media/photo-s/16/e1/ec/f7/rossmann.jpg" align="center" ALT="HTML" width="alt%"/></p>
 
 # Business Problem.
 
